@@ -1,19 +1,18 @@
-# Cual es la cancion mas popular?
+# Which is the most popular song?
 
-Deben desarrollar un sitio PROFESIONAL con los siguientes elementos:
-Deben usar Twitter Bootstrap! Esto significa que el sitio se deben ver bien en cualquier tamaño de pantalla.
+You have to develop a PROFESSIONAL site with the following elements: You have to use the Twitter Bootstrap! This means that your site has to look good with any screen size. 
 
-1. Crear cuenta en Last.FM y registrarse para una cuenta de API.
-2. Jalar las canciones o "tracks" más populares y crear una pagina que despliegue todas de forma ordenada y profesional. (La llamada de api debe verse algo asi http://ws.audioscrobbler.com/2.0/?method=chart.gettoptracks&api_key=05d4b311160508e4320ec650346e45c8&format=json)
-3. El usuario debe poder entrar a la pagina, y poder filtrar las Tops tracks por: la cantidad de "playcounts", "duration", organizar en orden alfabeto y al revés.
-4. SE DEBEN ENFOCAR EN HACER SOLO LO QUE SE PIDE. Si quieren agregarle cosas adicionales DESPUES de terminar lo pedido, pueden hacerlo en otra "branch de git".
+1. Create an account at Last.FM and register for an API account.
+2. Take the most popular songs or tracks and develop a webpage that shows them in the most profesional and organised fashion. (The API call should look like this: http://ws.audioscrobbler.com/2.0/?method=chart.gettoptracks&api_key=05d4b311160508e4320ec650346e45c8&format=json)
+3. The user should be able to get in the page and filter the Top tracks by: the amount of play counts, the  duration, and organise it by alphabetic order and viceversa. 
+4. YOU MUST FOCUS ON DOING EVERYTHING WE ASK FOR. If you wish to add something AFTER finishing everything we asked for, you can do it with another git branch.
 
 
-## Detalles
-Aclarando posibles dudas,
+## Details
+(Frequently Asked Questions)
 
-1. El diseño queda abierto, pero es importante recalcar que debe ser PROFESIONAL. Sugiero que miren los siguientes ejemplos. [ITUNES](https://www.apple.com/itunes/charts/songs/).  [Bilboard](http://www.billboard.com/charts/hot-100). (SIN LA PUBLICIDAD, solo enfocarse en el listado). Estos ejemplos son solo para referencia de diseño y no incluyen funcionalidades que estamos buscando como la filtración.
-2. No incluyan musica en el ```branch master```. Pueden hacer sus propios experimentos en otra ```branch```.
+1. The design is completely open (it is up to you), but it is import to know that is must be PROFESIONAL. I recommend that you look the following examples. ITUNES Billboard (without ads, just focus on the lists). This examples should be referenced for the design, they do NOT include the functionalities we are asking for.
+2. Do not include the music on the ```branch master```. You can do your own experiments on another ```branch```.
 
-## Resumen
-Deben ingresar y registrarse a last.fm. Jalar las "chart.gettoptracks" y desplegarlas de forma profesional en una pagina. El usuario debe poder filtrar los resultados de distintas formas y el listado debe responder en acorde.
+## Summary
+You have to go to last.fm and register. Pull the “chart.gettoptracks” and show them in a professional fashion. The user should be able to filter the results in different ways and the list should be able to respond accordingly.
